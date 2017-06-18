@@ -1,0 +1,52 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 (D:\Programs\Python35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="D:\Programs\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Programs/Python35/DLLs" />
+            <root type="simple" url="file://D:/Programs/Python35/Lib" />
+            <root type="simple" url="file://D:/Programs/Python35" />
+            <root type="simple" url="file://D:/Programs/Python35/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-169695286" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Server" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="ssh://root@138.197.39.212:22/usr/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="138.197.39.212" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfc8dfc5dfd3dfd9dfc9dfc5dfdfdfdedf9b" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python3.5" HELPERS_PATH="/home/nathan/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-1679517032/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-1679517032/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-1679517032/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-1679517032/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

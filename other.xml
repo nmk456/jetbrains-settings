@@ -1,0 +1,23 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="D:\Programs\Python35\python.exe" value="false" />
+        <entry key="ssh://nathan@138.197.39.212:22/usr/bin/python3.5" value="false" />
+        <entry key="ssh://root@138.197.39.212:22/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="ssh://nathan@138.197.39.212:22/usr/bin/python3.5" value="false" />
+        <entry key="ssh://root@138.197.39.212:22/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="ssh://nathan@138.197.39.212:22/usr/bin/python3.5" value="false" />
+        <entry key="ssh://root@138.197.39.212:22/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
